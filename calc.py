@@ -7,3 +7,6 @@ def multiply(x,y):
 def subtract(x,y):
 	res=x-y
 	return res
+
+def divide(x,y):
+	return x/y
